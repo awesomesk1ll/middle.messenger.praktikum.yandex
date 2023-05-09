@@ -1,0 +1,22 @@
+{
+  "name": "messenger",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "author": {
+    "name": "Aleksey Skhomenko",
+    "email": "aleksey@skhom.ru"
+  },
+  "dependencies": {
+    "astro": "^2.4.1"
+  },
+  "devDependencies": {
+    "classnames": "^2.3.2",
+    "postcss-nested": "^6.0.1"
+  }
+}

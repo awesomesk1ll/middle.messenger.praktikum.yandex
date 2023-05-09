@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/astro-%5E2.4.1-B845ED" />
     <img src="https://img.shields.io/badge/node-%5E16.14.0-blue" />
+    <img src="https://img.shields.io/badge/express-%5E4.18.2-green" />
     <img src="https://img.shields.io/badge/PostCSS-powered-DD3735" />
     <img src="https://img.shields.io/badge/typescript-%5E5.0.4-blue" />
 </p>

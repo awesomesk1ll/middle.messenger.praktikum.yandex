@@ -23,8 +23,9 @@ https://awesomesk1ll-messenger-s1.netlify.app/ (1 спринт)
 * Настроена сборка статики с использованием [Astro](https://astro.build)
 * Настроен процессинг для стилей PostCSS
 * Свёрстаны прототипы экранов: 
-- Авторизация
-- Регистрация
+- Авторизация ([тык](https://awesomesk1ll-messenger-s1.netlify.app/auth))
+- Регистрация ([тык](https://awesomesk1ll-messenger-s1.netlify.app/reg))
+- Ошибки 404 и 500 ([тык](https://awesomesk1ll-messenger-s1.netlify.app/asdf))
 * Прикручен деплой из ветки на Netlify
 * Прикручена сборка статики и раздача через Express
 

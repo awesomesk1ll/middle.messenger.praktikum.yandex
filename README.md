@@ -1,9 +1,15 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/astro-%5E2.4.1-B845ED" />
+    <a href="https://astro.build">
+        <img src="https://img.shields.io/badge/astro-%5E2.4.1-B845ED" />
+    </a>
     <img src="https://img.shields.io/badge/node-%5E16.14.0-blue" />
     <img src="https://img.shields.io/badge/express-%5E4.18.2-green" />
     <img src="https://img.shields.io/badge/PostCSS-powered-DD3735" />
     <img src="https://img.shields.io/badge/typescript-%5E5.0.4-blue" />
+    <img src="https://img.shields.io/badge/typescript-%5E5.0.4-blue" />
+    <a href="https://github.com/awesomesk1ll/middle.messenger.praktikum.yandex/actions/workflows/tests.yml">
+        <img src="https://github.com/awesomesk1ll/middle.messenger.praktikum.yandex/actions/workflows/tests.yml/badge.svg?branch=sprint_1" />
+    </a>
 </p>
 
 ## Макет проекта в Figma

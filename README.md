@@ -11,6 +11,7 @@
         <img src="https://github.com/awesomesk1ll/middle.messenger.praktikum.yandex/actions/workflows/tests.yml/badge.svg?branch=sprint_1" />
     </a>
 </p>
+Sprint 1 Pull Request - https://github.com/awesomesk1ll/middle.messenger.praktikum.yandex/pull/3
 
 ## Макет проекта в Figma
 

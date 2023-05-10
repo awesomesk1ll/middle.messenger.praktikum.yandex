@@ -29,8 +29,8 @@ jobs:
       run: bash tests-second-floor/sprint_1/check_gitignore.sh
     - name: Check npm run start existence
       run: bash tests-second-floor/sprint_1/check_start.sh
-    - name: Check Parcel in start script
-      run: bash tests-second-floor/sprint_1/check_parcel.sh
+    # - name: Check Parcel in start script (Parcel replaced to Astro)
+      # run: bash tests-second-floor/sprint_1/check_parcel.sh
     - name: Check PORT 3000
       run: bash tests-second-floor/sprint_1/check_port.sh
     - name: Check routing
